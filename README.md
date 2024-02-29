@@ -1,5 +1,6 @@
 ## Rijoanul Hasan Shanto
-![Metrics](/github-metrics.svg)
+
+![Metrics](https://metrics.lecoq.io/Rijoanul-Shanto)
 ![](https://komarev.com/ghpvc/?username=Rijoanul-Shanto&color=blue)
 
 ---
